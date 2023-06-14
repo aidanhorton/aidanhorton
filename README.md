@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Inspiration for formatting from https://github.com/pranjay-poddar -->
+
 <h2>About Me:</h2>
 <p>Hi, I'm a Software Engineer!</p>
 

@@ -1,4 +1,5 @@
-### Hi there 👋 I'm a professional software engineer with over 5 years professional experience, and many more at an amateur level!
+### Hi there 👋
+I'm a professional software engineer with over 5 years professional experience, and many more at an amateur level!
 I really enjoy making games, and web apps!
 
 <!--

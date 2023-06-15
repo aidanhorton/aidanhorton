@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm a professional software engineer with over 5 years professional experience, and many more at an amateur level!
+I really enjoy making games, and web apps!
 
 <!--
 **aidanhorton/aidanhorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +18,7 @@ Here are some ideas to get you started:
 
 <!-- Inspiration for formatting from https://github.com/pranjay-poddar -->
 
-<h2>About Me:</h2>
-<p>Hi, I'm a Software Engineer!</p>
-
-<h2>Tools And Technologies:</h2>
+<h2>Tools And Technologies</h2>
 <p align="center">
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 

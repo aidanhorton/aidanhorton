@@ -3,7 +3,6 @@ I'm a professional software engineer with over 8 years professional experience, 
 I really enjoy making games, and web apps!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+Learning;Never+Stop)](https://git.io/typing-svg)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aidanhorton&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **aidanhorton/aidanhorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

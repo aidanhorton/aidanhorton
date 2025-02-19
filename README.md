@@ -2,7 +2,7 @@
 I'm a professional software engineer with over 8 years professional experience, and many more at an amateur level!
 I really enjoy making games, and web apps!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aidanhorton)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aidanhorton&theme=dark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanhorton)](https://github.com/aidanhorton/github-readme-stats)
 
 <!--
